@@ -1,0 +1,19 @@
+<div class="container post-container">
+  <div class="section">
+    <!-- Title -->
+    <h2 class="title">
+      <%- page.title %>
+    </h2>
+    <!-- Date and Author -->
+    <p class="subtitle  is-7">
+        <%= page.date.format(config.date_format) %>
+        <% if(page.author) { %>
+            by <%- page.author %>
+        <% } %>
+    </p>
+    <!-- Content -->
+    <article class="markdown-body">
+    <%- page.content %>
+    </article>
+  </div>
+</div>

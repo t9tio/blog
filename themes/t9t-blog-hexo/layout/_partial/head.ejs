@@ -1,0 +1,37 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="timqian">
+  
+
+
+  <%
+    var title = page.title;
+    var description = page.description;
+    if (!title){
+      title = 't9t blog';
+    }
+    if (!description) {
+      description = 'Official blog of t9t.io'
+    }
+  %>
+
+  <title><%= title %></title>
+  <meta name="description" content="<%- description %>">
+
+  <link rel="icon" href="/favicon/favicon.ico" />
+  <link rel="apple-touch-icon" href="/favicon/favicon.ico" />
+  <link rel="bookmark" href="/favicon/favicon.ico" />
+  <link rel="shortcut icon" href="/favicon/favicon.ico" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css"/>
+  <link
+  rel="stylesheet"
+  href="https://use.fontawesome.com/releases/v5.4.1/css/all.css"
+  integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz"
+  crossorigin="anonymous"
+  />
+
+  <%- css('css/blog.css') %>
+  <%- css('css/index.css') %>
+</head>

@@ -1,0 +1,12 @@
+
+<div class="section">
+  <div class="container blogli">
+    <% page.posts.each(function(item){ %>
+      <li class="title is-4">
+        <a href="<%- config.root %><%- item.path %>">
+          <%- item.title || item.link%>
+        </a>
+      </li>
+    <% }); %>
+  </div>
+</div>
