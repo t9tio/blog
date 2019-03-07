@@ -1,72 +1,45 @@
 ---
-title: Reusable Growth Hacking tips [Still drafting stay tuned]
+title: Reusable Growth Hacking tips
 description: Here I record the growth hacking related knowledge I learned during building projects in t9t.io. This recipe will be continuously updated.
 ---
 
 Here I record the growth hacking related knowledge I learned during building projects at [t9t.io](http://t9t.io). This recipe will be continuously updated.
 
-## Why should you care
+## Why do I start to care
 
-Competition in software industry is becoming more and more intense. Besides building a beautiful product, it's very important for makkers to know the ways to get traffics to your product.
+I like building solutions. For the last several years, after I finish a product, what I do to find users is sharing it in several forums like HN or PD. Many times the product did not get much traction and it feels depressing. It makes me wonder if the tool I built is useless.
 
-For the last several years, after I finish building a product, what I do to find users is sharing it in several forums like HN or PD. Many times the product did not get much traction, and it feel depressing. It makes me wondering if the tool I built is useless.
+One of the projects changed my mind and make me start to care about growth hacking. It is a simple tool called [star-history](https://github.com/star-history), which displays star number history of github repos. It get nearly no upvotes when I first [share it to HN](https://news.ycombinator.com/item?id=10271641) or several other tech forums. But as time goes by, beyond my expectation, this simple tool gets more and more stars. And when I published a paid [chrome extension version](https://github.com/timqian/star-history-plugin) on chrome webstore recently. People starts to pay for this simple tool even it is open sourced and free to download without paying. So I checked the traffic of the project on github. The major traffic source is Google search and some popular blog posts people mentioning it.
 
-One project changed my mind. A simple tool called [star-history](https://github.com/star-history) which did not much attraction when I share to HN or several other tech forum. But as time goes by, the project gets more and more stars. And people even willing to pay forI find it is after building dozens of products I find out the truth is, initial upvotes is not the key to successful product. One of the project I made has most users did not get much upvotes on HN, but it is generating revenues for me. The major traffic of that is organic search result from google.
+This experience from myself reminds me two ideas I have read about in many other places but failed to nail them down on my mind.
 
-## Acquisition: user come to your site from various channels
+1. Initial upvotes is not the key to a successful product.
+2. Building a beautiful product is important. And make it easy for people to find it is equally important.
 
-- Before building the product. You should have done lots of searches and should have found places where people are searching for the product or asking related questions. You should note them down and they will be great channels to share after you finish your product.
-- Launch at all the platforms you can think of: HN; PD; Reddit; V2EX(China);
-- Search and answer related questions on Quora; Zhihu(China) or any where people asking questions
-- Write blog about your product, why you build it, what you learned though building it. And share this blog to as many platform as you can
-- **Most important channel: search engine**, here are some simple but important SEO tricks
+That's when I started to actually care about growth hacking.
+
+## Three aspects to work on
+
+### 1. A beautiful product
+
+This is always the most important thing to remember.
+
+### 2. More exposure
+
+- More channels of traffic
+  - Before building the product. You should have done lots of searches and should have found places where people are searching for the product or asking related questions. You should note them down and they will be great channels to share after you finish your product.
+  - Launch at all the platforms you can think of: HN; PD; Reddit; V2EX(China);
+  - Search and answer related questions on Quora; Zhihu(China) or any where people asking questions
+  - Write blog about your product, why you build it, what you learned though building it. And share this blog to as many platform as you can
+- SEO
   - use [google search console](https://search.google.com/search-console)
   - upload sitemap to search console
   - `<title/>`; `<head/>`; `<h1/>`; `<meta name="description" content=""/>`
   - have more good source link to your websites
 
-## Activation: user enjoy their first visit
+### 3. Start to record and improve conversion rates
 
-- Think about how to have more user install/signup your app after viewing the content you provide!
-- reduce the steps user need to act before getting value
-  - no need to signup > oauth > email > email + password > username + email + password
-- **开始监测转化率**，通过 A/B testing 来优化转化率。开始监测转化率是改进的第一步
-
-## Retention: users come back
-
-- chrome extension is great because it lives in people's browser!
-- sending customized interesting emails?
-
-## Referrals: users like he product enough to refer friends
-
-- simple share btn
-- create interesting shareble img/content
-
-## Revenue: users do something that leads you to make money
-
-### 1. A beautiful product
-
-### 2. More exposure
-
-- more channels
-- SEO
-
-### 3. Improve conversion rates
-
-- view => install/signup
-- view/install/signup returning rate
-- user => active user
-- user => paid user
-
-What you need to do?
-
-more exposure!
-better conversion rate!
-
-I have 3 products
-
-1. cloudquery
-2. tomato-pie
-3. star-history
-
-For #3 I build a tool
+- Activation: view => install/signup
+- Retention: view/install/signup => active user
+- Referrals: view/user => share
+- Revenue: user => paid user
