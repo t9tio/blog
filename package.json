@@ -15,5 +15,10 @@
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-renderer-marked": "^0.3.2",
     "hexo-server": "^0.3.3"
+  },
+  "scripts": {
+    "start": "hexo server",
+    "build": "hexo generate",
+    "publish": "up deploy production"
   }
 }
