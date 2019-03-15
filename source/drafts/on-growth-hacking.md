@@ -18,8 +18,6 @@ This experience from myself reminds me two ideas I have read about in many other
 
 That's when I started to actually care about growth hacking.
 
-## Three aspects to work on
-
 ### 1. A beautiful product
 
 This is always the most important thing to remember.
@@ -37,9 +35,20 @@ This is always the most important thing to remember.
   - `<title/>`; `<head/>`; `<h1/>`; `<meta name="description" content=""/>`
   - have more good source link to your websites
 
+### 3. Build your reputation
+
+关于博客，
+有些开发者，包括我，觉得自己没有写博客的技巧，而忽视了写博客这个重要的建立 reputation 的方法。
+- 为什么：营造个人品牌，当有1万人关注你的动态时，发布新产品的出事曝光率会高很多，而随意发到hn，pd 上的内容，运气不好有时候容易石沉大海。
+- 怎么样：记录你在做产品期间的心得，经验。独立开发者，一般都是想法比较多的人，对生活中的不便，现有产品的缺陷有自己的认识才会产生构建新产品的思路。记录你的思考，经验，先粗略的记录下来再去把这些记录整理成能够帮助别人的内容。把每一篇博客当作一个个小项目，投入没有开发一个新产品多，但是一片有意义的博客受众却常常比一个有意义的产品多。对于一个产品，你辛苦工作两天为他加了一个新功能，你不可能又把这个在 PD HN v2ex 发布过的产品又发布一遍，但是你辛苦工作两天写出来的博客却可以去发。博客中自然带有指向你主页的链接，间接曝光了你的产品。这个过程不断重复，你将拥有更多的关注者。marketing 变得越来越容易。当然博客的质量是很重要的，1000篇没有营养的博客都比不上一篇好博客。
+- 营造个人品牌，当有1万人关注您的动态时，发布新产品的出事曝光率会高很多，而随意发到hn，pd 上的内容，运气不好有时候容易石沉大海
+
 ### 3. Start to record and improve conversion rates
 
 - Activation: view => install/signup
+SEO, referral 把潜在用户引导到了你的产品。有人过来看你的产品，接下来就是要思考如何把看客转化成用户了把无意中看到你产品的人更好的转化成用户：tomato-pie: Chrome extension？不要忽视在 web store 上的图片，视频和介绍的写作。一个
+  - 专业美观的介绍内容
+  - 10秒钟让用户明白这个产品能为他带来什么价值, 一个 tip： 找一个朋友访问你的产品（朋友是这个产品的目标用户类型），你在旁边观察他，他浏览个10秒，请他告诉你他对这个产品的理解
 - Retention: view/install/signup => active user
 - Referrals: view/user => share
 - Revenue: user => paid user
