@@ -1,6 +1,6 @@
 ---
 title: 全干工程师的自我修养（获客篇）
-description:
+description: 本文主要从产品推广和转化率两个方面入手，罗列了可以套用在不同产品上的获客小技巧。
 ---
 
 最近开始尝试收费的 [star history](https://github.com/timqian/star-history) 获得了十几笔收入，走通了想法 => 实现 => 用户付费的流程。也算是踏入了全干工程师的行列。这一系列文章主要用来记录自己在“全干”过程中学到的一些经验。本文主要从产品推广和转化率两个方面入手，罗列了可以套用在不同产品上的获客小技巧。
@@ -63,5 +63,5 @@ description:
 - [lighthouse](https://github.com/GoogleChrome/lighthouse): 网站诊断工具。帮助你提升性能；SEO等。chrome 插件用起来很方便
 - [Google 的移动设备适合性测试](https://search.google.com/test/mobile-friendly)
 
-<hr/>
-> [*帮助我改进这篇文章*]()
+<br/>
+> [帮助我改进这篇文章](https://github.com/t9tio/blog/blob/master/source/_posts/on-growth-hacking-cn.md)
