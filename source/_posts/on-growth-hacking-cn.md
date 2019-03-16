@@ -11,10 +11,12 @@ description: 本文主要从产品推广和转化率两个方面入手，罗列�
 
 1. 当产品还在想法阶段时，你一定做了很多搜索，这个问题是否其他人也碰到了？是否已经有了解决方案？现有解决方案有什么缺陷？在这个过程中，你应该记下这些找到的链接。当你完成你的产品时，可以在这些地方宣传你的产品。遇到类似问题的用户很可能搜索与你类似的关键字并看到这些问题，可以说是很好的流量来源了。
 2. 记得在所有潜在用户所在的平台发布
-  - [ ] HN
-  - [ ] ProductHunt
-  - [ ] V2EX
-  - [ ] Reddit
+  - [ ] [HN](https://news.ycombinator.com)
+  - [ ] [ProductHunt](https://producthunt.com)
+  - [ ] [V2EX](http://v2ex.com)
+  - [ ] [cnodejs](https://cnodejs.org)
+  - [ ] [ruby-china](https://ruby-china.org/)
+  - [ ] [Reddit](https://reddit.com)
   - [ ] 你的用户可能在的论坛；微信，telegram  各种群
   - [ ] 相关领域知名的博客；杂志发表文章
   - [ ] Your PR
