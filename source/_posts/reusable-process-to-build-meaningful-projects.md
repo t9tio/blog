@@ -14,7 +14,7 @@ title: A reusable process to build meaningful projects
 [*`t9tio/open-source-jobs`*](https://github.com/t9tio/open-source-jobs)
 1. Now it is Google's job to bring users to this place if it is a responsible search engine (And if it‘s not we should build a new one!)
 
-The next day after I created [*`t9tio/open-source-jobs`*](https://github.com/t9tio/open-source-jobs) and shared it to several forums. I find it is listed as the 4th result when people search `open source jobs` in Google. It is amazing that Google index website so fast.
+The next day after I created [t9tio/open-source-jobs](https://github.com/t9tio/open-source-jobs) and shared it to several forums. I find it is listed as the 4th result when people search "open source jobs" in Google. It is amazing that Google index website so fast.
 
 Now, from my experience. This project will get constant traffic and collects lots of stars on github over time. I should keep on building it and make it better.
 
@@ -22,9 +22,12 @@ Now, from my experience. This project will get constant traffic and collects lot
 
 ## Reuse these steps to other ideas
 
-I think I can replace `the words/ideas/project in this style` with other words/ideas/project and build other useful tools for myself and others.
+I think I can replace `the words/ideas/project in this style` with other words/ideas/project in the steps and build other useful tools for myself and others.
 
 ## Some links
 
 - [The project on github: t9tio/open-source-jobs](https://github.com/t9tio/open-source-jobs)
-- [search google with 'open source jobs'](https://www.google.com/search?q=open+source+jobs)
+- [Search Google with "open source jobs"](https://www.google.com/search?q=open+source+jobs)
+
+<br/>
+> [Help me improve this article](https://github.com/t9tio/blog/blob/master/source/_posts/reusable-process-to-build-meaningful-projects.md)
