@@ -17,6 +17,9 @@ description: 本文主要从产品推广和转化率两个方面入手，罗列�
   - [ ] [cnodejs](https://cnodejs.org)
   - [ ] [ruby-china](https://ruby-china.org/)
   - [ ] [Reddit](https://reddit.com)
+  - [ ] [少数派](https://sspai.com)
+  - [ ] [掘金](https://juejin.im)
+  - [ ] [36kr next](http://next.36kr.com/)
   - [ ] 你的用户可能在的论坛；微信，telegram  各种群
   - [ ] 相关领域知名的博客；杂志发表文章
   - [ ] Your PR
@@ -62,10 +65,15 @@ description: 本文主要从产品推广和转化率两个方面入手，罗列�
 
 ## 工具
 
+### SEO 与网站性能
 - Google SEO: [google search console](https://search.google.com/search-console)
 - Bing SEO: [bing网站管理工具](https://www.bing.com/toolbox/webmaster)
 - [lighthouse](https://github.com/GoogleChrome/lighthouse): 网站诊断工具。帮助你提升性能；SEO等。chrome 插件用起来很方便
 - [Google 的移动设备适合性测试](https://search.google.com/test/mobile-friendly)
+
+### 其他
+- 用户如何使用你的网站：https://www.hotjar.com/tour
+- 方便美观地加入分享按钮：https://www.addthis.com/
 
 <br/>
 > [帮助我改进这篇文章](https://github.com/t9tio/blog/blob/master/source/_posts/on-growth-hacking-cn.md)
