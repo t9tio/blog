@@ -2,7 +2,7 @@
 title: A reusable process to build meaningful projects
 ---
 
-1. An idea pop up in my mind:
+1. An idea pops up in my mind:
 `Is there any open source projects hiring programers so that I can work on open source and get paid?`
 1. Search on Google:
 `open source jobs`
@@ -17,7 +17,6 @@ title: A reusable process to build meaningful projects
 The next day after I created [*`t9tio/open-source-jobs`*](https://github.com/t9tio/open-source-jobs) and shared it to several forums. I find it is listed as the 4th result when people search `open source jobs` in Google. It is amazing that Google index website so fast.
 
 Now, from my experience. This project will get constant traffic and collects lots of stars on github over time. I should keep on building it and make it better.
-
 
 ![](https://raw.githubusercontent.com/timqian/images/master/Screen%20Shot%202019-03-23%20at%2010.00.52%20PM.png)
 
