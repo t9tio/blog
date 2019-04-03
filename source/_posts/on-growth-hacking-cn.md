@@ -13,13 +13,18 @@ description: 本文主要从产品推广和转化率两个方面入手，罗列�
 2. 记得在所有潜在用户所在的平台发布
   - [ ] [HN](https://news.ycombinator.com)
   - [ ] [ProductHunt](https://producthunt.com)
+  - [ ] [Indiehackers](https://www.indiehackers.com/)
   - [ ] [V2EX](http://v2ex.com)
   - [ ] [cnodejs](https://cnodejs.org)
   - [ ] [ruby-china](https://ruby-china.org/)
   - [ ] [Reddit](https://reddit.com)
   - [ ] [少数派](https://sspai.com)
+  - [ ] [湾区日报](https://wanqu.co/
   - [ ] [掘金](https://juejin.im)
   - [ ] [36kr next](http://next.36kr.com/)
+  - [ ] [list tool here](https://github.com/cjbarber/
+  ToolsOfTheTrade#readme)
+  https://github.com/mezod/awesome-indie#readme
   - [ ] 你的用户可能在的论坛；微信，telegram  各种群
   - [ ] 相关领域知名的博客；杂志发表文章
   - [ ] Your PR
