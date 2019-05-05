@@ -13,6 +13,7 @@ description: 本文主要从产品推广和转化率两个方面入手，罗列�
 2. 记得在所有潜在用户所在的平台发布
   - [ ] [HN](https://news.ycombinator.com)
   - [ ] [ProductHunt](https://producthunt.com)
+  - [ ] [找到AI](https://zhaodao.ai)
   - [ ] [Indiehackers](https://www.indiehackers.com/)
   - [ ] [V2EX](http://v2ex.com)
   - [ ] [cnodejs](https://cnodejs.org)
