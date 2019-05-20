@@ -19,16 +19,21 @@ description: 本文主要从产品推广和转化率两个方面入手，罗列�
   - [ ] [ruby-china](https://ruby-china.org/)
   - [ ] [Reddit](https://reddit.com)
   - [ ] [少数派](https://sspai.com)
-  - [ ] [湾区日报](https://wanqu.co/
+  - [ ] [湾区日报](https://wanqu.co)
   - [ ] [掘金](https://juejin.im)
   - [ ] [36kr next](http://next.36kr.com/)
-  - [ ] [list tool here](https://github.com/cjbarber/
-  ToolsOfTheTrade#readme)
-  https://github.com/mezod/awesome-indie#readme
+  - [ ] [ruanyifeng weekly](https://github.com/ruanyf/weekly/)
+  - [ ] [中国独立开发者列表](https://github.com/1c7/chinese-independent-developer)
+  - [ ] [hello github](https://github.com/521xueweihan/HelloGitHub)
+  - [ ] [tools of the trade](https://github.com/cjbarber/ToolsOfTheTrade#readme)
+  - [ ] [awesome-indie](https://github.com/mezod/awesome-indie#readme)
   - [ ] 你的用户可能在的论坛；微信，telegram  各种群
   - [ ] 相关领域知名的博客；杂志发表文章
   - [ ] Your PR
 3. 介绍你开发这个产品从 idea 到产品的过程形成博客发布到各个平台，人们最喜欢听故事，也是可以算是二次发布。
+
+### When to lunch
+https://www.producthunt.com/posts/when-to-launch-3?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-when-to-launch-3
 
 ### 搜索引擎优化 (SEO)
 

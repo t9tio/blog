@@ -18,3 +18,7 @@
 indie 模式下没有这个问题
 
 My projects never die. because it is open sourced and serverless. The cost is very low to sustain the projects
+
+
+问题：容易被 copy？
+it is actually hard, copy 者很难从根本上理解你想解决的问题？？大家倾向于支持原创； GPLv3 license 保护，git commit 历史，其实更容易证明另一个人是抄袭
