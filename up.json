@@ -6,9 +6,6 @@
   "static": {
     "dir": "public"
   },
-  "hooks": {
-    "build": "hexo generate"
-  },
   "stages": {
     "production": {
       "domain": "blog.t9t.io"

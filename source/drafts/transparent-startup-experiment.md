@@ -1,10 +1,10 @@
 ---
-title: 我的透明创业实验
-description: 探究一个机灵程度中上的普通人, 给他一年时间让他自由创造, 是否有可能获得1000美元每月的被动收入. 
+title: My transparent startup experiment
+description: Give myself one year, create software freely, and see if I can build products offering me $1000 per month 
 date: 2019-05-20
 ---
 
-Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一年的[透明创业实验](https://t9t.io). 这是关于这个实验的介绍以及第一周的实验记录.
+Hello world, I am [timqian](https://github.com/timqian), doing an [transparent startup experiment](https://t9t.io). 这是关于这个实验的介绍以及第一周的实验记录.
 
 研究生毕业马上两年了, 算上实习的经历, 我做过1年多的前端, 4年多的后端工程师, 待过 5 家不同的互联网公司. 这 5 家公司从初创到世界500强各个阶段的都有. 但我都没有找到那种百分百投入的热情. 究其原因, 主要是自己在其中身份都是类似的. 是一个工具属性, 公司花钱买你的时间. 在某个“工程师”岗位上, 让别人告诉你该做什么, 要解决什么问题. 不管是被一些书籍文章([穷爸爸, 富爸爸](https://www.zhihu.com/question/20528677), [阮一峰的博客](http://www.ruanyifeng.com/survivor/startup/why-startup.html) 等)洗脑也好, 还是自己的梦想也罢, 我希望拥有自己的“资产”, 而不是一直拿时间去换钱.
 
