@@ -1,3 +1,8 @@
+1. 数据分享
+2. 我做了什么
+3. 一些思考
+4. 一些计划
+
 Before the blog
 
 twitter: 38 
@@ -23,7 +28,7 @@ marketing:
 - blog post
 - help-wanted 的分享
 https://www.google.com/search?ei=8CLlXLKMIMyd-gSt1abIAw&q=how+to+start+contributing+to+open+source&oq=how+to+start+cont&gs_l=psy-ab.1.1.0l10.5677.10363..12886...2.0..1.603.5270.2-2j2j5j3......0....1..gws-wiz.......0i71j0i67j0i13j0i22i10i30j0i22i30.VGMBJHhEYuI
-
+看 github sitelites 顺手评论一波: https://www.youtube.com/watch?v=UeMP2govdZo
 - quora 上答题: https://www.quora.com/How-do-I-start-contributing-in-Open-Source-projects
 
 产品
@@ -54,3 +59,11 @@ Plan of next week:
 以一个有类似需求的用户的角度去 google/baidu(不太想提百度, 真是烂甚至想做一个), 去人们在寻找解决方案的地方分享你做的东西
 越多人用你的东西, 你才能得到更多的反馈, 发现产品前进的方向或者说是否值得前进
 
+做好你该做的:
+
+一个为用户提供价值的产品
+产品拥有从提供价值到用户付费的闭环
+可靠稳定的流量来源
+产品用户自增长的特性
+确保产品与趋势契合
+给它时间
