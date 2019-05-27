@@ -101,8 +101,9 @@ Hello world, 我是 timqian, 正在进行为期一年的透明创业实验. 这�
 ### 平均每月被动收入
 <canvas id="incomeChart"></canvas>
 
+<br/>
 
-
+> [帮助我改进这篇文章](https://github.com/t9tio/blog/blob/master/source/_posts/t9t-week2.md)
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
 
