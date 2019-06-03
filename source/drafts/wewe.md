@@ -4,7 +4,7 @@ title: wewe - Open group chat messages to the world
 
 > wewe 现在还是一个想法, 第0版产品正在制作当中, 欢迎对这个项目感兴趣的朋友告诉 [timbot](https://raw.githubusercontent.com/timqian/images/master/3811553342733_.pic.jpg), 加入 wewe 的微信群讨论
 
-repo:  https://github.com/t9tio/wewe, 
+repo:  https://github.com/t9tio/wewe
 
 ### Introducting wewe
 
@@ -20,4 +20,5 @@ repo:  https://github.com/t9tio/wewe,
 - 可以被搜索引擎搜到
 - 聊天内容的分析
 - 话题抽取,便于搜索
-- 用户注册(分享微信)与群成员绑定,
+- 用户注册(分享微信)与群成员绑定
+
