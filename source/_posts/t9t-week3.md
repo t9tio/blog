@@ -170,7 +170,7 @@ new Chart(incomeCtx, {
             backgroundColor: chartColors.green, 
             borderColor: chartColors.green,
             fill: false,
-            data: [0.69, 0, 5.88]
+            data: [0.69, 0, 25.7]
         }]
     },
 });
