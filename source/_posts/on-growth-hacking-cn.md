@@ -19,6 +19,7 @@ description: 本文主要从产品推广和转化率两个方面入手，罗列�
   - [ ] [ruby-china](https://ruby-china.org/)
   - [ ] [Reddit](https://reddit.com)
   - [ ] [掘金](https://juejin.im)
+  - [ ] [小众软件](https://www.appinn.com/)
   - [ ] [找到AI](https://zhaodao.ai)
   - [ ] [少数派](https://sspai.com)
   - [ ] [36kr next](http://next.36kr.com/)
@@ -77,6 +78,8 @@ https://www.producthunt.com/posts/when-to-launch-3?utm_source=badge-featured&utm
 ## 工具
 
 ### SEO 与网站性能
+- [marketing-checklist](https://github.com/portable-cto/side-project-marketing/blob/master/marketing-checklist.md
+)
 - Google SEO: [google search console](https://search.google.com/search-console)
 - Bing SEO: [bing网站管理工具](https://www.bing.com/toolbox/webmaster)
 - [lighthouse](https://github.com/GoogleChrome/lighthouse): 网站诊断工具。帮助你提升性能；SEO等。chrome 插件用起来很方便

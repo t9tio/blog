@@ -91,4 +91,5 @@ theme: t9t-blog-hexo
 deploy:
   type:
 
+# Disqus used in post.ejs
 disqus_shortname: t9tio
