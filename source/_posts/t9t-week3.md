@@ -36,7 +36,7 @@ open-source-jobs 是开始实验的这几周所花时间最多的项目, 它的�
 
 </details>
 
-### 新项目 wewe
+### 新项目 [wewe](https://github.com/t9tio/wewe)
 
 这周开始了一个新的项目 wewe, 主要功能是把微信(之后还可以是其他的)群消息同步到互联网, 现在还在制作当中, 具体思考可见这篇[还是草稿的博客](/drafts/wewe.html)
 
