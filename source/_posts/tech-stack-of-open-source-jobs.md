@@ -7,7 +7,7 @@ description: serverless + react server side rendering
 
 ## 产品简介
 
-[open-source-jobs](https://github.com/t9tio/open-source-jobs) 是一个收集主要项目为开源, 并且提供工作机会的公司的网站. 一开始只是一个 github 上的 markdown 项目. 因为发表到 [reddit](https://www.reddit.com/r/programming/comments/b44hm5/a_list_of_jobs_whose_major_responsibility_is/?utm_source=share&utm_medium=web2x) 上受到一些关注, 并且开源在近些年的蓬勃发展. 我觉得这个细分的找工作工具可能有一定价值, 于是把这个 markdown 做成了一个网站形式方便使用. 主要的两部分功能是用户通过 github 注册我可以拿到邮箱, 以及工作/组织的暂时和筛选.
+[open-source-jobs](https://github.com/t9tio/open-source-jobs) 是一个收集主要项目为开源, 并且提供工作机会的公司的网站. 一开始只是一个 github 上的 markdown 项目. 因为发表到 [reddit](https://www.reddit.com/r/programming/comments/b44hm5/a_list_of_jobs_whose_major_responsibility_is/?utm_source=share&utm_medium=web2x) 上受到一些关注, 并且开源在近些年的蓬勃发展. 我觉得这个细分的找工作工具可能有一定价值, 于是把这个 markdown 做成了一个网站形式方便使用. 主要的两部分功能是用户通过 github 注册我可以拿到邮箱, 以及工作/组织的展示和筛选.
 
 ## 用到的工具, 技术以及我为什么这么选择
 
