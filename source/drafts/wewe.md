@@ -12,7 +12,6 @@ repo:  https://github.com/t9tio/wewe
 
 说干就干, MVP 整起来!
 
-
 ### 提供的价值
 
 - 在一个地方记录了群聊里的信息, 群外人也可以看到
@@ -22,3 +21,9 @@ repo:  https://github.com/t9tio/wewe
 - 话题抽取,便于搜索
 - 用户注册(分享微信)与群成员绑定
 
+###
+| Tool | group history | open on the web | search engine accessible | topic extraction | 
+| --- | --- | --- | --- | --- |
+| wechat | x | x | x | x |
+|slack/tg | y | x | x | x |
+| gitter | y | y | x | x|
