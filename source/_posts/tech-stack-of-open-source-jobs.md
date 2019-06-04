@@ -46,12 +46,12 @@ open-source-jobs 是一个内容站, 所以对搜索引擎友好是很重要的�
 
 - Server Side Rendering for SEO: [next.js](https://github.com/zeit/next.js/)
 
-<br/>
-
-> [帮助我改进这篇文章](https://github.com/t9tio/blog/blob/master/source/_posts/tech-stack-of-open-source-jobs.md)
-
 ## 最后附上项目链接和源码地址
 
 - [网站地址](https://oo.t9t.io)
 - [Github 源码](https://github.com/t9tio/open-source-jobs)
 - [代码结构](https://github.com/t9tio/open-source-jobs#folder-structure)
+
+<br/>
+
+> [帮助我改进这篇文章](https://github.com/t9tio/blog/blob/master/source/_posts/tech-stack-of-open-source-jobs.md)
