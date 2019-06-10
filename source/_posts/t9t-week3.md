@@ -74,7 +74,7 @@ open-source-jobs 是开始实验的这几周所花时间最多的项目, 它的�
 ### github star 数
 <canvas id="starChart"></canvas>
 
-### 平均每月被动收入(本周收入 / 7 * 30)
+### 平均每月被动收入($)(本周收入 / 7 * 30)
 <canvas id="incomeChart"></canvas>
 
 <br/>

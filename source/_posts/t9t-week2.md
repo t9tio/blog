@@ -98,7 +98,7 @@ Hello world, 我是 timqian, 正在进行为期一年的透明创业实验. 这�
 ### github star 数
 <canvas id="starChart"></canvas>
 
-### 平均每月被动收入(本周收入 / 7 * 30)
+### 平均每月被动收入($)(本周收入 / 7 * 30)
 <canvas id="incomeChart"></canvas>
 
 <br/>
