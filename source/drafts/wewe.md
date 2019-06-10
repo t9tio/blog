@@ -20,8 +20,10 @@ repo:  https://github.com/t9tio/wewe
 - 聊天内容的分析
 - 话题抽取,便于搜索
 - 用户注册(分享微信)与群成员绑定
+- 群直播 to the world
 
-###
+### 现有聊天工具对比
+
 | Tool | group history | open on the web | search engine accessible | topic extraction | 
 | --- | --- | --- | --- | --- |
 | wechat | x | x | x | x |
