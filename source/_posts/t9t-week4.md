@@ -20,7 +20,7 @@ Hello world, 我是 timqian, 正在进行为期一年的透明创业实验. 这�
 
 #### [open-source-jobs](https://github.com/t9tio/open-source-jobs)
 
-- 写了一篇[关于网站技术选择的博客](/tech-stack-of-open-source-jobs.md), 谈谈为什么选择 serverless, react 以及 serverside rendering
+- 写了一篇[关于网站技术选择的博客](https://blog.t9t.io/tech-stack-of-open-source-jobs-2019-06-03/), 谈谈为什么选择 serverless, react 以及 serverside rendering
 - 产品暂时进入稳定阶段, 停止更新时间, 看看项目自己会不会成长. 因为是 serverless 方式开发, 没有维护成本, 对于这种有可能需要长时间积累用户量的应用十分合适
 - 拿掉了 help-wanted 入口, 专心做开源相关招聘站.
 
