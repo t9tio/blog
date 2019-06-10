@@ -57,7 +57,7 @@ wewe 的主要功能是把微信(之后还可以是其他的)群消息同步到�
 
 ### Marketing related
 
-[写了一篇博客关于 open-source-jobs 的技术选择和源码分享](./tech-stack-of-open-source-jobs.md), 发到了 v2ex, cnodejs, ruby-china, juejin, 为 open-source-jobs 人为带一波流量
+[写了一篇博客关于 open-source-jobs 的技术选择和源码分享](https://blog.t9t.io/tech-stack-of-open-source-jobs-2019-06-03/), 发到了 v2ex, cnodejs, ruby-china, juejin, 为 open-source-jobs 人为带一波流量
 
 ![](https://raw.githubusercontent.com/timqian/images/master/Screen%20Shot%202019-06-10%20at%209.24.49%20AM.png)
 (traffic on github repo)
