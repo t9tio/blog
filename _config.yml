@@ -93,3 +93,14 @@ deploy:
 
 # Disqus used in post.ejs
 disqus_shortname: t9tio
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: source/favicon/favicon.ico

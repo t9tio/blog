@@ -37,6 +37,21 @@ description: 本文主要从产品推广和转化率两个方面入手，罗列�
 ### When to lunch
 https://www.producthunt.com/posts/when-to-launch-3?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-when-to-launch-3
 
+### 产品自身的增长属性
+
+https://twitter.com/hfcorriez/status/1137652229253373953
+
+产品增长的八个要点：①产品改进；②新用户引导和教育；③邮件；④通知；⑤客户服务；⑥促销；⑦忠诚客户计划；⑧新产品。
+
+https://daily.zhihu.com/story/8732855
+
+- 邀请奖励
+- 促进分享
+- 邀请码机制
+- 点赞机制
+
+https://github.com/portable-cto/side-project-marketing/blob/master/marketing-checklist.md
+
 ### 搜索引擎优化 (SEO)
 
 - 在更多高质量的网站上出现你的链接
