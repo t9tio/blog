@@ -4,6 +4,8 @@ description: 探究一个机灵程度中上的普通人, 给他一年时间让�
 date: 2019-06-17
 ---
 
+> 码代码是做一个产品最轻松愉快的一部分, idea, marketing, communication, luck 是代码之外不可见却决定成败的因素 -- timqian
+
 Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一年的[透明创业实验](https://blog.t9t.io/transparent-startup-experiment-2019-05-20/). 这是关于这个实验第五周的实验记录.
 
 记录主要分成 4 部分
@@ -34,7 +36,7 @@ Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一
 
 ![](https://raw.githubusercontent.com/timqian/images/master/Screen%20Shot%202019-06-17%20at%209.39.05%20AM.png)
 
-- 这些阅读量转化为微信群友的有300多人, 转化率大约 10% (有点高到吓人, 怀疑有阅读量没被 adsense 拿到)
+- 这些阅读量转化为微信群友的有300多人, 转化率大约 10% (有点高到吓人, 怀疑有阅读量没被 Google analytics 拿到)
 - 转化为 [github follower](https://github.com/timqian) 有100多人
 - 转化为 [twitter follower](https://twitter/tim_qian) 70人
 - 转化为 [spectrum 群友](https://spectrum.chat/t9tio) 20人
