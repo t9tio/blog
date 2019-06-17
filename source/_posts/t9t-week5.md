@@ -19,7 +19,7 @@ Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一
 上周是思考 [wewe](https://github.com/t9tio/wewe) 应该长什么样以及埋头代码的一周.
 
 <details>
-<summary>对我具体做了哪些实际工作感兴趣的朋友可以点击这一行, 查看从 tomato-pie 截取的工作日志</summary>
+<summary>对我具体做了哪些实际工作, 在什么事情上花了多长时间感兴趣的朋友可以点击这一行, 查看从 tomato-pie 截取的工作日志</summary>
 ![](https://raw.githubusercontent.com/timqian/images/master/Screen%20Shot%202019-06-17%20at%209.24.34%20AM.png)
 ![](https://raw.githubusercontent.com/timqian/images/master/Screen%20Shot%202019-06-17%20at%209.24.41%20AM.png)
 ![](https://raw.githubusercontent.com/timqian/images/master/Screen%20Shot%202019-06-17%20at%209.24.49%20AM.png)
