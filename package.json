@@ -20,6 +20,6 @@
   "scripts": {
     "start": "hexo server",
     "build": "hexo generate",
-    "publish": "npm run build && up deploy production"
+    "deploy": "npm run build && up deploy production"
   }
 }
