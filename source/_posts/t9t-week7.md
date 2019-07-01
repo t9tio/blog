@@ -4,7 +4,7 @@ description: 心情起起伏伏伏伏伏伏伏伏
 date: 2019-07-01
 ---
 
-Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一年的[透明创业实验](https://blog.t9t.io/transparent-startup-experiment-2019-05-20/). 这是关于这个实验第六周的实验记录.
+Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一年的[透明创业实验](https://blog.t9t.io/transparent-startup-experiment-2019-05-20/). 这是关于这个实验第七周的实验记录.
 
 ## 实验内容
 
