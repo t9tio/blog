@@ -54,7 +54,7 @@ Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一
 
 <br/>
 
-> [帮助我改进这篇文章](https://github.com/t9tio/blog/blob/master/source/_posts/t9t-week6.md)
+> [帮助我改进这篇文章](https://github.com/t9tio/blog/blob/master/source/_posts/t9t-week7.md)
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
 
