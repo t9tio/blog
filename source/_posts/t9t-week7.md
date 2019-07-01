@@ -9,10 +9,10 @@ Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一
 ## 实验内容
 
 本周还是专注于 [wewe](https://wewe.t9t.io)
-- 前同事喜欢组织技术社区, 邀请了他在维护的一些群加入了 wewe, 得到了更多反馈, 最多的还是对隐私的顾虑. 可以想象之后发布的时候, 最多的问题还是这个, 所以打算先做好 slack 的支持再做发布
 - 完成了 topic 手动摘取的功能 e.g. [https://wewe.t9t.io/chat/t9t.io%20community/topics](https://wewe.t9t.io/chat/t9t.io%20community/topics)
 - 增加了 [about 页](https://wewe.t9t.io/about)
 - 调研了并且尝试了 slack bot, 开始为 wewe 增加 slack 群支持
+- 前同事组织了许多技术群, 这周邀请了他在维护的一些群加入了 wewe.<!-- 得到了更多反馈.最多的还是对隐私的顾虑. 可以想象之后发布的时候, 最多的问题还是这个, 所以打算先做好 slack 的支持再做发布-->
 
 <details>
 <summary>*从 tomato-pie 截取的每日工作细节*</summary>
