@@ -36,6 +36,7 @@ Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一
 ## 如果你对这个实验感兴趣, 可以通过以下渠道关注我, 每周会分享产品进度和思考
 
 - [t9t.io 微信群](https://raw.githubusercontent.com/timqian/images/master/3811553342733_.pic.jpg)
+- [t9t.io slack 群](https://join.slack.com/t/t9tio/shared_invite/enQtNjgzMzkwMDM0NTE3LTE5ZTUzYjU4Y2I0YzRiZjNkYTkzMzE1ZmM0NDdmYzRlZmMxNGY1MzZlN2EwYjYyNWVlMWY0Nzk2MDBhNWZlY2I)
 - [我的 github](https://github.com/timqian)
 - [我的 twitter](https://twitter.com/tim_qian)
 - [t9t.io spectrum 群](https://spectrum.chat/t9tio)
