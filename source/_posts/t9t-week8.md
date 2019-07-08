@@ -40,7 +40,7 @@ Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一
 
 ## 上周实验内容
 
-本周一方面继续完善 [wewe](https://wewe.t9t.io)
+本周继续完善 [wewe](https://wewe.t9t.io)
 - 在[v2ex 社区尝试发布了 wewe](https://www.v2ex.com/t/579952), 大概获得了 1000 次点击, 新加入了6个群. 得到不少反馈
 - 发布前常常是最有效率的, 改善了不少问题比如支持撤回, 支持消息里的链接, 支持视频, 更新加群脚本让加新群更容易等等
 - 基于原有计划和反馈, 在 github 上建了一个 [kanban 来组织 TODO](https://github.com/orgs/t9tio/projects/2), 也萌生了对 tomato-pie 做一个大改动的想法(kanban + todolist + pomodoro + share kanban)
@@ -64,7 +64,7 @@ Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一
 
 <br/>
 
-> [帮助我改进这篇文章](https://github.com/t9tio/blog/blob/master/source/_posts/t9t-week7.md)
+> [帮助我改进这篇文章](https://github.com/t9tio/blog/blob/master/source/_posts/t9t-week8.md)
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
 
