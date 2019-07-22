@@ -655,7 +655,7 @@ ul {
   padding: 0 16px;
 }
 
-/* .markdown-body table {
+.markdown-body table {
   display: block;
   overflow: auto;
   width: 100%;
@@ -678,7 +678,7 @@ ul {
 
 .markdown-body table tr:nth-child(2n) {
   background-color: #f6f8fa;
-} */
+}
 
 .markdown-body img {
   background-color: #fff;
