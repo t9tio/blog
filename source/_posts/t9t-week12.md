@@ -1,5 +1,5 @@
 ---
-title: 惨淡的发布现场, 网络讨饭和接外包, 我的透明创业实验 - 第十二周
+title: 我的透明创业实验 - 第十二周
 # description: what's your problem? what can I do for you
 date: 2019-08-05
 ---
