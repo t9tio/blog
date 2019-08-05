@@ -1,5 +1,5 @@
 ---
-title: 我的透明创业实验 - 第十二周
+title: 惨淡的发布现场, 网络讨饭和接外包, 我的透明创业实验 - 第十二周
 # description: what's your problem? what can I do for you
 date: 2019-08-05
 ---
@@ -8,7 +8,7 @@ Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一
 
 ## 做了啥
 
-- 在不同平台发布了 wewe, 效果比较惨淡, 只有零星几个点赞, 没有增加新的用户. 不过之后会持续在新增大功能时做持续的发布. (自勉: 无意中看到 [TJ](https://github.com/tj) 的 [HN submissions](https://news.ycombinator.com/submitted?id=tjholowaychuk). 就连 [mocha](https://news.ycombinator.com/item?id=3271903) 现在这么出名的项目, 当初他发在 HN 都没有收到关注. Keep moving)
+- 在不同平台发布了 [wewe](https://wewe.t9t.io), 效果比较惨淡, 只有零星几个点赞, 没有增加新的用户. 不过之后会持续在新增大功能时做持续的发布. (自勉: 无意中看到 [TJ](https://github.com/tj) 的 [HN submissions](https://news.ycombinator.com/submitted?id=tjholowaychuk). 就连 [mocha](https://news.ycombinator.com/item?id=3271903) 现在这么出名的项目, 当初他发在 HN 都没有收到关注. Keep moving)
 - 借鉴 evanyou.me 更新了 timqian.com
 - 在 timqian.com & github & hackernews 实验性得放出了接活的报价: https://news.ycombinator.com/item?id=20585097, 一年之后如果产品不能养活自己, 接外包也是除了找工作之外的一个选择
 - 前段时间注册的 patreon.com/timqian 获得了第一笔每月一美元捐助🎉

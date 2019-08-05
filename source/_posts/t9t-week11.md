@@ -1,7 +1,7 @@
 ---
 title: 吉他与产品开发 - 我的透明创业实验第十一周
 # description: what's your problem? what can I do for you
-date: 2019-07-22
+date: 2019-07-29
 ---
 
 Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一年的[透明创业实验](https://blog.t9t.io/transparent-startup-experiment-2019-05-20/). 这是关于这个实验第十一周的实验记录.
