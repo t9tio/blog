@@ -135,7 +135,7 @@ new Chart(starCtx, {
             backgroundColor: chartColors.blue,
             borderColor: chartColors.blue,
             fill: false,
-            data: [undefined, undefined, undefined, undefined, 0, 11, 33, 57, 70, 77, 78, 102, 103, ]
+            data: [undefined, undefined, undefined, undefined, 0, 11, 33, 57, 70, 77, 78, 102, 103, 108]
         },{
             label: 'open source jobs',
             backgroundColor: chartColors.red,
@@ -147,7 +147,7 @@ new Chart(starCtx, {
             backgroundColor: chartColors.orange,
             borderColor: chartColors.orange,
             fill: false,
-            data: [107, 113, 117, 118, 125, 126, 128, 129, 134, 134, 136, 136, 139]
+            data: [107, 113, 117, 118, 125, 126, 128, 129, 134, 134, 136, 136, 139, 139]
         },{
             label: 'star-history 插件',
             backgroundColor: chartColors.green,
