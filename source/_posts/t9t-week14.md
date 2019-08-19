@@ -8,7 +8,7 @@ Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一
 
 ## 发布了什么
 
-[chart.xkcd](https://github.com/chart.xkcd) - 一个手绘风格的图表库
+[chart.xkcd](https://github.com/timqian/chart.xkcd) - 一个手绘风格的图表库
 ![](https://raw.githubusercontent.com/timqian/images/master/20190819131226.gif)
 
 ## 成功的发布?
@@ -26,9 +26,9 @@ Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一
 ![](https://raw.githubusercontent.com/timqian/images/master/20190819174117.png)
 </details>
 
-这是我第一次写一个轮子可以同时登上两个全球主要程序员社区首页, 纵向对比, 至少是我所有发布过的轮子中最成功的一次😅
+这是我第一次写一个轮子可以同时登上两个全球主要程序员社区首页, 纵向对比, 至少是我的轮子发布生涯中最成功的一次😅
 
-那么, 这个轮子为什么不想我大多数其他轮子一样发布即葬礼呢?
+那么, 这个轮子为什么不像我大多数其他轮子一样发布即葬礼呢?
 
 ## Build something should exist
 
@@ -54,6 +54,7 @@ Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一
 - 这个解决方案是新的!
 
 如果满足了上述要求, 你的解决方案也过得去, 正常应该可以获得一次成功的发布
+
 
 ## 本周目标
 
