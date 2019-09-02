@@ -20,7 +20,7 @@ Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一
 
 ## 五个月之后
 
-一转眼, 距离 [tomato-pie](https://github.com/t9tio/tomato-pie) 的发布(其实就是通常一样分享到几个程序员论坛罢了)已经五个多月了. [tomato-pie](https://github.com/t9tio/tomato-pie) 的用户曲线除了一开始发布的时候比较陡, 大部分时间平稳得像一条水平线一般. 虽然我自己几乎每天用, 也感受到它的很多不足, 可优化的地方. 但看着这平坦的用户曲线, 继续开发它的动力就不是很足...
+一转眼, 距离 [tomato-pie](https://github.com/t9tio/tomato-pie) 的发布(其实就是同往常一样分享到几个程序员论坛罢了)已经五个多月了. [tomato-pie](https://github.com/t9tio/tomato-pie) 的用户曲线除了一开始发布的时候比较陡, 大部分时间平稳得像一条水平线一般. 虽然我自己几乎每天用, 也感受到它的很多不足, 可优化的地方. 但看着这平坦的用户曲线, 继续开发它的动力就不是很足...
 
 ![](https://raw.githubusercontent.com/timqian/images/master/20190902133034.png)
 
