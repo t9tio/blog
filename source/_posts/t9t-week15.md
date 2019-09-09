@@ -45,7 +45,7 @@ Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一
 
 > [帮助我改进这篇文章](https://github.com/t9tio/blog/blob/master/source/_posts/t9t-week15.md)
 
-<script src="https://cdn.jsdelivr.net/npm/chart.xkcd@1.0.9/dist/chart.xkcd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.xkcd@1.1.3/dist/chart.xkcd.min.js"></script>
 
 <script>
 var usersvg = document.getElementById('userChart');
