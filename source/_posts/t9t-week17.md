@@ -1,5 +1,5 @@
 ---
-title: 免费雇佣全球的开发者为你的开源项目做贡献 - 我的透明创业实验第十七周
+title: 免费面向全球雇佣开发者为你的开源项目做贡献 - 我的透明创业实验第十七周
 description: 试用了 issuehunt.io 来帮助自己的开源项目成长
 date: 2019-09-09
 ---
@@ -8,7 +8,7 @@ Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一
 
 ## 试试 issuehunt
 
-很久之前就从群友 [EGOIST](https://github.com/egoist) 处听说过 [issuehunt](issuehunt.io) 这个项目. 简单来讲, issuehunt 就是一个 issue 资助平台, 开源项目使用者可以通过 issuehunt 给某个开源项目的 issue 注资. 解决这个 issue 的人就可以获得这笔钱(另一个基于区块链的类似产品 [gitcoin](https://gitcoin.co/)). 可能是 issuehunt 还比较早期的原因, 除了用户的注资之外, 你还可以申请 issuehunt 来注资. 因为 [chart.xkcd](https://github.com/timqian/chart.xkcd) 还算流行, 我也试了试申请.
+很久之前就从群友 [EGOIST](https://github.com/egoist) 处听说过 [issuehunt](https://issuehunt.io) 这个项目. 简单来讲, issuehunt 就是一个 issue 资助平台, 开源项目使用者可以通过 issuehunt 给某个开源项目的 issue 注资. 解决这个 issue 的人就可以获得这笔钱(另一个基于区块链的类似产品 [gitcoin](https://gitcoin.co/)). 可能是 issuehunt 还比较早期的原因, 除了用户的注资之外, 你还可以申请 issuehunt 来注资. 因为 [chart.xkcd](https://github.com/timqian/chart.xkcd) 还算流行, 我也试了试申请.
 
 申请了 4 个 issue, 三个成功被注资 $50, 有一个可能因为没有写描述没有通过. 注资之后第二天就收到了两个质量还可以的 PR, 让我十分惊喜. 之后如果开源项目需要帮助, 通过这个平台的注资可以给贡献者更多激励. 对于我来讲相当于可以免费雇佣全球的开发者来做贡献, 何乐而不为.
 
