@@ -29,13 +29,15 @@ Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一
 
 相信每一个创作者都很关心自己做的东西大家是否受到别人的欢迎, 想知道每天有多少人使用了自己的产品/网站，他们是从哪里看到我的产品的，回头客多吗? 这个时候我们都会给自己接一个比如 Google analytics 之类的工具来统计这些信息. 作为一个做了超过10个大大小小网站的人，每个网站我都会接上 Google analytics, 但其实我只用了其中很少的功能, 关心它几百个指标里的4-5个. 它复杂的UI反而让我难以找到那几个我关心的数据. 当然，像所有类似的需求巨大的领域, 市面上不缺开源/简化版的 Google analytics，我将要实现的这个版本有它自己一些如上面提到的独特的地方. 希望这个产品可以获得小部分有这个需求的用户的喜欢
 
-> 另, 早上多了一位来自 [tomato-pie](https://github.com/t9tio/tomato-pie) 的 [patron](https://patreon.com/timqian), 多了一份更新 [tomato-pie](https://github.com/t9tio/tomato-pie) 的动力
 
 ## 数据分享
 
 > 产品详情可以访问 [t9t.io](https://t9t.io) 查看
 
 ### 平均每月被动收入($)(本周收入 / 7 * 30)
+
+> 早上多了一位来自 [tomato-pie](https://github.com/t9tio/tomato-pie) 的 [patron](https://patreon.com/timqian), 多了一份更新 [tomato-pie](https://github.com/t9tio/tomato-pie) 的动力
+
 <svg id="incomeChart"></svg>
 
 ### 用户量
