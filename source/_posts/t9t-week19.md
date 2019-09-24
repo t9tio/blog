@@ -1,7 +1,7 @@
 ---
 title: 我的透明创业实验 - 第十九周
 # description: 
-date: 2019-09-16
+date: 2019-09-23
 ---
 
 Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一年的[透明创业实验](https://blog.t9t.io/transparent-startup-experiment-2019-05-20/). 这是关于这个实验第十九周的实验记录.
