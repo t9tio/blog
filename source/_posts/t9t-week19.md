@@ -14,9 +14,9 @@ Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一
 
 ## 手头上同时维护的项目太多怎么办? 更不要说 TODO list 里那些闪闪发亮, 迫不及待, 想要破土而出的想法💡
 
-新注册了一个域名 [sideproject.club](https://jinshuju.net/f/fJvCBJ). 希望做一个 invite only 的非盈利组织, 把喜欢做 sideproject 的朋友连接起来. 朋友们可以把自己想要做的新 side project 贴到上面, 和其他头脑做碰撞, 寻找合作者.
+新注册了一个域名 [sideproject.club](https://sideproject.club). 希望做一个 invite only 的非盈利组织, 把喜欢做 sideproject 的朋友连接起来. 朋友们可以把自己想要做的新 side project 贴到上面, 和其他头脑做碰撞, 寻找合作者.
 
-这件事完全处于一个想法阶段, 如果你也喜欢这个想法, 欢迎[加入讨论](https://jinshuju.net/f/fJvCBJ).
+这件事完全处于一个想法阶段, 如果你也喜欢这个想法, 欢迎[加入讨论](https://forms.gle/HJTnNZoEgqT9PF469).
 
 ## 数据分享
 
