@@ -1,10 +1,10 @@
 ---
-title: keep on shipping, 你可能会发现用户可能喜欢什么 - 我的透明创业实验第二十周
+title: keep on shipping, 你可能会发现用户可能喜欢什么 - 我的透明创业实验第二十二周
 # description: 
 date: 2019-10-14
 ---
 
-Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一年的[透明创业实验](https://blog.t9t.io/transparent-startup-experiment-2019-05-20/). 这是关于这个实验第二十一周的实验记录. 
+Hello world, 我是 [timqian](https://github.com/timqian), 正在进行为期一年的[透明创业实验](https://blog.t9t.io/transparent-startup-experiment-2019-05-20/). 这是关于这个实验第二十二周的实验记录. 
 
 ## 做一个通用的 Analytics 工具?
 
