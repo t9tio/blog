@@ -36,7 +36,7 @@ date: 2019-03-26
   - [ ] Your PR
 3. 介绍你开发这个产品从 idea 到产品的过程形成博客发布到各个平台，人们最喜欢听故事，也是可以算是二次发布。
 
-### When to lunch
+### When to launch
 https://www.producthunt.com/posts/when-to-launch-3?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-when-to-launch-3
 
 ### 产品自身的增长属性
