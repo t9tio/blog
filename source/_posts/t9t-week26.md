@@ -4,7 +4,7 @@ title: 产品从 0 到 1 的法则 - 我的透明创业实验第二十六周
 date: 2019-11-11
 ---
 
-上周, 久未更新的 [wewe](https://wewe.t9t.io) 迎来了第一个除捐赠以外的客户(虽然收费渠道都还没建好). 截止目前, 我已经做 5 个有人愿意为之付费的 [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) 了, 在这篇博客里, 冒昧得谈一谈从 0 到 1 的法则, 作为自己的记录.
+上周, 久未更新的 [wewe](https://wewe.t9t.io) 迎来了第一个除捐赠以外的客户(虽然收费渠道都还没建好). 截止目前, 我已经做了 5 个有人愿意为之付费的 [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) 了, 在这篇博客里, 冒昧得谈一谈从 0 到 1 的法则, 作为自己的记录.
 
 > 产品收入情况
 - [Repo Analytics](http://repo-analytics.github.io) - 一个每月 1 美金的 [patron](https://www.patreon.com/timqian)
