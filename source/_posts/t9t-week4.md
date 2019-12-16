@@ -1,6 +1,7 @@
 ---
 title: 我的透明创业实验 - 第四周
 description: 探究一个机灵程度中上的普通人, 给他一年时间让他自由创造, 是否有可能获得1000美元每月的被动收入.
+date: 2019-06-10
 ---
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Before getting your hands dirty with code. Find people who might be future customers and get their feedback on your idea first.</p>&mdash; timqian (@Tim_Qian) <a href="https://twitter.com/Tim_Qian/status/1137879896296812544?ref_src=twsrc%5Etfw">June 10, 2019</a></blockquote>
@@ -68,7 +69,7 @@ wewe 的主要功能是把微信(之后还可以是其他的)群消息同步到�
 
 - 完成 wewe 的 MVP 并发布
 - 完成一篇透明创业实验第一个月的总结博客并发布
-  - **调研读者最喜欢的订阅博客的方式**
+- **调研读者最喜欢的订阅博客的方式**
 [![](https://api.gh-polls.com/poll/01DCZDSAQW3S4HS0K0S5WQSRKK/email)](https://api.gh-polls.com/poll/01DCZDSAQW3S4HS0K0S5WQSRKK/email/vote)
 [![](https://api.gh-polls.com/poll/01DCZDSAQW3S4HS0K0S5WQSRKK/RSS)](https://api.gh-polls.com/poll/01DCZDSAQW3S4HS0K0S5WQSRKK/RSS/vote)
 [![](https://api.gh-polls.com/poll/01DCZDSAQW3S4HS0K0S5WQSRKK/twitter)](https://api.gh-polls.com/poll/01DCZDSAQW3S4HS0K0S5WQSRKK/twitter/vote)

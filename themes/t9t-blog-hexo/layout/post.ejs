@@ -5,10 +5,10 @@
       <%- page.title %>
     </h2>
     <!-- Date and Author -->
-    <p class="subtitle  is-7">
+    <p class="subtitle is-7 has-text-grey" style="padding-top: 5px;">
         <%= page.date.format(config.date_format) %>
-        <% if(page.author) { %>
-            by <%- page.author %>
+        <% if(!page.author) { %>
+          by <a href="https://timqian.com">timqian</a>
         <% } %>
     </p>
     <!-- Content -->
@@ -37,3 +37,13 @@
     })();
   </script>
 <% } %>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/disqusjs@1.2/dist/disqusjs.css">
+<script src="https://cdn.jsdelivr.net/npm/disqusjs@1.2/dist/disqus.js"></script>
+
+<script>
+var dsqjs = new DisqusJS({
+  shortname: 't9tio',
+  apikey: 'ZIJEj12O1ov7A9gdzT2RayJoaZT3CcBj5s5gRhL9vdnZaBzIvpMX4k1DVDim59mQ',
+});
+</script>
