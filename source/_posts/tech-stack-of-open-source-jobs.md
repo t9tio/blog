@@ -1,6 +1,7 @@
 ---
 title: 我最近一个网站的技术选择和源码分享
 description: serverless + react server side rendering
+date: 2019-06-03
 ---
 
 > 关键词: serverless + react server side rendering
