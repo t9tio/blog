@@ -60,5 +60,3 @@ rank = stars / (hours + 2) ^ 1.4
 Feeds Pub 不能说在这个想法下指导出来的产物, 但也算符合这个想法. ”RSS 订阅“ 这个需求是一个验证存在的, 虽然现在不能算特别大众. 但也是世界上包括我自己在内 1% 左右的人的刚需.
 
 在接下来很长一段时间里, 我将试着在这个战场上作战. 打磨 Feeds Pub, 也是打磨自己的产品力.
-
-<a href="https://www.producthunt.com/posts/feeds-pub?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-feeds-pub" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=192893&theme=dark" alt="Feeds Pub - A social RSS feed reader | Product Hunt Embed" style="width: 250px; height: 54px; position: fixed; right: 0px; bottom: 0px;" width="250px" height="54px" /></a>
