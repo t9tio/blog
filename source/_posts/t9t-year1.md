@@ -73,7 +73,6 @@ $14 每月来自 [patreon](https://www.patreon.com/timqian)
 ## 接下来的安排
 
 - 在产品上, 我将会把主要精力放到 [Feeds.Pub](https://feeds.pub) 上, 把它尽可能做到自己心目中完美的样子
-- 很难
 - 开一个英文博客: [timqian.com/blog](https://timqian.com/blog)
 - 慢慢开始接项目和寻找有潜力的创业团队, 如果你有软件开发的需求, 欢迎通过右下角的各种方式联系到我
 
