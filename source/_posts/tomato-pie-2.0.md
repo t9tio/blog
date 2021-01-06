@@ -1,6 +1,6 @@
 ---
 title: 番茄工作法的一种新的 UI 尝试 tomato-pie 发布 2.0 版，以及产品发布一个月以来的一些数据分享
-description: 
+date: 2019-03-06
 ---
 
 > 前情提要: https://www.v2ex.com/t/538331#reply24
