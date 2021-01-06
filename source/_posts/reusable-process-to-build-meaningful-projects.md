@@ -1,5 +1,6 @@
 ---
 title: A reusable process to build meaningful projects
+date: 2019-03-08
 ---
 
 1. An idea pops up in my mind:
