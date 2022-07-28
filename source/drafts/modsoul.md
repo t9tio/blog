@@ -1,10 +1,10 @@
 ---
-title: 为了老婆的乐队梦, 我做了一个弹钢琴的机器人。
+title: 为了老婆的乐队梦, 我做了一个弹钢琴的机器人
 # description:
 date: 2022-07-28
 ---
 
-事情是这样的：老婆很喜欢唱歌，一直喊我学一个乐器然后组一个乐队。我很努力得尝试学习了钢琴，吉他，尤克里里… 但是因为资质平平没有节奏感，一直也配不上。
+事情是这样的：老婆很喜欢唱歌，一直喊我学一个乐器然后组一个乐队。于是，我尝试学习了钢琴，吉他，尤克里里… 但是因为资质平平没有节奏感，一直也配不上。
 
 正在老婆马上要放弃我的时候，前段时间无意中刷到一些视频，似乎弹钢琴，弹吉他这活儿可以安排给机器人干。作为一个略懂电子的程序员，这些机器人我也许也能做的出来，成立乐队的希望又出现了。
 
@@ -22,8 +22,10 @@ date: 2022-07-28
 
 ### 1.1 乐高的方案
 乐高的问题是：机械结构复杂，要把它变成一个灵活的乐手很难
+<iframe 
+   style="width: 640px; height: 430px; max-width: 100%"
+  src="https://player.bilibili.com/player.html?aid=686382957&bvid=BV1AU4y1v7Cz&cid=786446104&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-<iframe src="//player.bilibili.com/player.html?aid=686382957&bvid=BV1AU4y1v7Cz&cid=786446104&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### 1.2 用单片机驱动
 
