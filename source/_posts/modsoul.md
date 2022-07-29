@@ -30,7 +30,7 @@ date: 2022-07-29
 
 ### 1.1 乐高的方案
 
-乐高除了常规的积木，还卖可编程机器的机器（[SPIKE](https://legoeducation.cn/zh-cn/products/lego-education-spike-prime-/45678#spike-prime%E7%A7%91%E5%88%9B%E5%A5%97%E8%A3%85)，[EV3](https://zh.wikipedia.org/zh-sg/%E6%A8%82%E9%AB%98Mindstorms_EV3)等）这些机器可以连接接传感器，马达以及乐高积木，由此组装出可编程的乐高机器人。
+乐高除了常规的积木，还卖可编程的机器（[SPIKE](https://legoeducation.cn/zh-cn/products/lego-education-spike-prime-/45678#spike-prime%E7%A7%91%E5%88%9B%E5%A5%97%E8%A3%85)，[EV3](https://zh.wikipedia.org/zh-sg/%E6%A8%82%E9%AB%98Mindstorms_EV3)等）这些机器可以连接传感器，马达以及乐高积木，由此组装出可编程的乐高机器人。
 
 参考 youtube 上[这位博主的视频](https://www.youtube.com/watch?v=cXgB3lIvPHI)，我最终做出了这么一个弹吉他的机器人：
 
