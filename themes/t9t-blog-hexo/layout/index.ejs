@@ -1,19 +1,19 @@
-
-<div class="section"  style="margin-top: 50px">
-  <div class="container blogli">
-    <ul style="list-style-type: none;">
-      <% page.posts.each(function(item){ %>
-        <li style="padding: 0 0 15px 0;">
-          <h2 class="title is-6">
-            <a href="<%- config.root %><%- item.path %>">
-              <%- item.title || item.link%>
-            </a>
-          </h2>
-          <p class="subtitle is-7 has-text-grey-light">
-            <%= item.date.format('MMMM YYYY') %>
-          </p>
-        </li>
-      <% }); %>
-    <ul>
-  </div>
+<div class="section">
+  <%- partial('_partial/header') %>
+    <div class="container blogli" style="margin-top: 50px">
+      <ul style="list-style-type: none;">
+        <% page.posts.each(function(item){ %>
+          <li style="padding: 0 0 15px 0;">
+            <h2 class="title is-6">
+              <a href="<%- config.root %><%- item.path %>">
+                <%- item.title || item.link%>
+              </a>
+            </h2>
+            <p class="subtitle is-7 has-text-grey-light">
+              <%= item.date.format('MMMM YYYY') %>
+            </p>
+          </li>
+          <% }); %>
+            <ul>
+    </div>
 </div>

@@ -1,0 +1,26 @@
+<div class="blog-header">
+	<nav
+		style="border-bottom: 1px solid rgba(0,0,0,.1); position:fixed; top:0; width:100%; background-color: white; z-index: 10">
+		<div class="container post-container">
+			<div style="float:left">
+				<a class="button is-white" href="/" style="padding: 23px 5px 23px 5px">
+					<img src="/favicon/favicon.ico" width="28" height="28" />
+				</a>
+				<a class="button is-white" href="/" style="padding: 23px 5px 23px 5px">
+					<strong style="color: #555">Blogs</strong>
+				</a>
+			</div>
+			<div style="float:right">
+				<a href="https://sponsor.cat/timqian.eth" class="button is-white"
+					style="padding: 0px 9px; color: #555; border: thin solid #888; margin: 10px 0; border-radius: 20px; font-weight: 500; font-size: small;">
+					<span style="color: red;">♡</span>&nbsp;Sponsor
+				</a>
+			</div>
+		</div>
+	</nav>
+	<p class="lead blog-description">
+		<% if (config.subtitle){ %>
+			<%= config.subtitle %>
+				<% } %>
+	</p>
+</div>

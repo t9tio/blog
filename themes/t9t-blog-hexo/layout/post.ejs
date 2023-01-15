@@ -1,49 +1,53 @@
-<div class="container post-container" style="margin-top: 50px">
-  <div class="section">
-    <!-- Title -->
-    <h2 class="title">
-      <%- page.title %>
-    </h2>
-    <!-- Date and Author -->
-    <p class="subtitle is-7 has-text-grey" style="padding-top: 5px;">
+<div class="">
+  <%- partial('_partial/header-post') %>
+    <div class="section container post-container" style="margin-top: 50px">
+      <!-- Title -->
+      <h2 class="title">
+        <%- page.title %>
+      </h2>
+      <!-- Date and Author -->
+      <p class="subtitle is-7 has-text-grey" style="padding-top: 5px;">
         <%= page.date.format(config.date_format) %>
-        <% if(!page.author) { %>
-          by <a href="https://timqian.com">timqian</a>
-        <% } %>
-    </p>
-    <!-- Content -->
-    <article class="markdown-body">
-    <%- page.content %>
-    </article>
-    <hr/>
-    <h3 class="title is-4">
-      特别感谢
-    </h3>
-    <div style="padding-top: 5px;">
-      <a href="https://github.com/juzhiyuan">琚致远</a> | <a href="https://bytebase.com/" rel="nofollow">Bytebase</a> | <a href="https://madao.me/" rel="nofollow">Madao</a> | <a href="https://bit.ly/3gfWwps" rel="nofollow">SecondState</a></p>
+          <% if(!page.author) { %>
+            by <a href="https://timqian.com">timqian</a>
+            <% } %>
+      </p>
+      <!-- Content -->
+      <article class="markdown-body">
+        <%- page.content %>
+      </article>
+      <hr />
+      <h3 class="title is-4">
+        特别感谢
+      </h3>
+      <div style="padding-top: 5px;">
+        <a href="https://github.com/juzhiyuan">琚致远</a> | <a href="https://bytebase.com/" rel="nofollow">Bytebase</a> |
+        <a href="https://madao.me/" rel="nofollow">Madao</a> | <a href="https://bit.ly/3gfWwps"
+          rel="nofollow">SecondState</a></p>
+      </div>
+      <br />
+      如果你喜欢这个博客，欢迎通过 <a href="https://sponsor.cat/timqian.eth">Sponsor.cat</a>, <a href="https://github.com/sponsors/timqian">Github</a> 或 <a
+        href="https://www.patreon.com/timqian">Patron</a> 赞助作者
+      <br />
+      <hr />
+      <div id="disqus_thread">
+        Using disqus as comment system
+      </div>
     </div>
-    <br/>
-    如果你喜欢这个博客，欢迎通过 <a href="https://github.com/sponsors/timqian">Github</a> 或 <a href="https://www.patreon.com/timqian">Patron</a> 赞助作者
-    <br/>
-    <hr/>
-    <div id="disqus_thread">
-      Using disqus as comment system
-    </div>
-  </div>
 </div>
 
 <% if (config.disqus_shortname){ %>
   <script>
     var disqus_shortname = '<%= config.disqus_shortname %>';
-    <% if (page.permalink){ %>
+    <% if (page.permalink) { %>
     var disqus_url = '<%= page.permalink %>';
     <% } %>
-    (function(){
-      var dsq = document.createElement('script');
-      dsq.type = 'text/javascript';
-      dsq.async = true;
-      dsq.src = '//go.disqus.com/<% if (page.comments){ %>embed.js<% } else { %>count.js<% } %>';
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
+      (function () {
+        var dsq = document.createElement('script');
+        dsq.type = 'text/javascript';
+        dsq.async = true;
+        dsq.src = '//go.disqus.com/<% if (page.comments){ %>embed.js<% } else { %>count.js<% } %>';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
   </script>
-<% } %>
+  <% } %>
