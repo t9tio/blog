@@ -25,7 +25,7 @@ ChatGPT 极大的改变了我的工作习惯。最近几个月来，不论是写
 
 在未来，我们会创造越来越多的 Prompts, 每个人常用的 Prompts 也不同。
 
-也许，对于 Prompts, 我们需要一个类似 GitHub 的平台。大家在创建自己需要的 Prompts, 在平台上发现别人创建的 Prompts。于是，我做了这个尝试：[Open Prompt](https://openprompt.co)
+也许，对于 Prompts, 我们需要一个类似 GitHub 的平台。大家在上面创建自己需要的 Prompts, 发现别人创建的 Prompts。于是，我做了这个尝试：[Open Prompt](https://openprompt.co)
 
 ## [Open Prompt](https://openprompt.co) 是什么
 
