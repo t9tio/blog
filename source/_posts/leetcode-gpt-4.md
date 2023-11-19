@@ -1,5 +1,5 @@
 ---
-title: 如何帮助 GPT-4 自主解决 LeetCode 上的编程问题
+title: 我如何帮助 GPT-4 在 1 小时内自主解决 LeetCode 上 100 个编程问题
 description: 
 date: 2023-11-20
 ---
