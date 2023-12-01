@@ -4,7 +4,7 @@ description:
 date: 2023-12-01
 ---
 
-很久之前因为重度使用 GitHub 并且想要了解项目的 star 数据历史, 做了 star-history.com 。最近 HuggingFace 用的越来越多，于是做了类似一个工具: https://like-history.ai
+很久之前因为重度使用 GitHub 并且想要了解项目的 star 数据历史, 做了 star-history.com 。最近 [HuggingFace](https://huggingface.co/) 用的越来越多，于是做了类似一个工具: https://like-history.ai
 
 使用 like-history.ai， 你可以：
 
